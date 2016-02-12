@@ -1,4 +1,4 @@
-[info] Updating {file:/Users/D/IdeaProjects/Scala%20Solutions/project/}scala-solutions-build...
+[info] Updating {file:/Users/D/IdeaProjects/Scala-Solutions/project/}scala-solutions-build...
 [debug] :: resolving dependencies :: default#scala-solutions-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -16,7 +16,7 @@
 [debug] == resolving dependencies for default#scala-solutions-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#scala-solutions-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@549cd641
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15726ac1
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
@@ -1766,19 +1766,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 3327ms :: artifacts dl 89ms
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT compile produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-compile.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT runtime produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-runtime.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT test produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-test.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT provided produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-provided.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT optional produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-optional.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT compile-internal produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-compile-internal.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT runtime-internal produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-runtime-internal.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT test-internal produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-test-internal.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT plugin produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-plugin.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT sources produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-sources.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT docs produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-docs.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT pom produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-pom.xml
-[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT scala-tool produced in /Users/D/IdeaProjects/Scala Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-scala-tool.xml
-[debug] 	resolve done (3327ms resolve - 89ms download)
+[debug] :: resolution report :: resolve 1674ms :: artifacts dl 46ms
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT compile produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-compile.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT runtime produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-runtime.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT test produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-test.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT provided produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-provided.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT optional produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-optional.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT compile-internal produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-compile-internal.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT runtime-internal produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-runtime-internal.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT test-internal produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-test-internal.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT plugin produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-plugin.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT sources produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-sources.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT docs produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-docs.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT pom produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-pom.xml
+[debug] 	report for default#scala-solutions-build;0.1-SNAPSHOT scala-tool produced in /Users/D/IdeaProjects/Scala-Solutions/project/target/resolution-cache/reports/default-scala-solutions-build-scala-tool.xml
+[debug] 	resolve done (1674ms resolve - 46ms download)
 [info] Done updating.
